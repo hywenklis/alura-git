@@ -3,6 +3,6 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Bom Dia!");
+        System.out.println("Olá! Bom Dia (:");
     }
 }
